@@ -27,10 +27,11 @@ h1 {
   margin: 10px;
   border: 3px solid black;
   font-family: emoji;
+  border-radius: 12px;
 }
 
 .buton:hover{
-  background-color: #61dafb;
+  background-color: #778cbe;
   cursor: pointer;
 }
 
